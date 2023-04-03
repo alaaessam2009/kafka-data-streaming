@@ -1,2 +1,2 @@
-# kafka-data-streaming
-stream data into kafka topic channel with producer and consumer pattern
+# data-streaming
+streaming data object into kafka topic channel
